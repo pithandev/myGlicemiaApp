@@ -1,0 +1,29 @@
+{
+  "name": "myglicemiaapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pithandev/myGlicemiaApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pithandev/myGlicemiaApp/issues"
+  },
+  "homepage": "https://github.com/pithandev/myGlicemiaApp#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.14",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.12.1",
+    "tailwindcss": "^4.0.14"
+  }
+}
